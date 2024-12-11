@@ -7,6 +7,7 @@
 body {
   color: #ffff;
   overflow: hidden;
+
 }
 
 html {
@@ -32,6 +33,7 @@ html {
   box-shadow: 3px 6px 40px #000;
   margin-bottom: 10px;
   overflow: hidden;
+  box-shadow: 5px 10px 15px #12343b;
 }
 
 .header {
